@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalisisYDisenio1Examen2", "AnalisisYDisenio1Examen2\AnalisisYDisenio1Examen2.csproj", "{5634B021-3D6D-44F7-BB56-7FBCA013E9D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalisisYDisenio1Examen2.Tests", "AnalisisYDisenio1Examen2.Tests\AnalisisYDisenio1Examen2.Tests.csproj", "{4BE3F4BA-B0B2-4FA3-AEAE-88B9614C509F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalisisYDisenio1Examen2.Logic", "AnalisisYDisenio1Examen2.Logic\AnalisisYDisenio1Examen2.Logic.csproj", "{72425F20-2E3E-4A93-BFF8-8E70C12946E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5634B021-3D6D-44F7-BB56-7FBCA013E9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5634B021-3D6D-44F7-BB56-7FBCA013E9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5634B021-3D6D-44F7-BB56-7FBCA013E9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5634B021-3D6D-44F7-BB56-7FBCA013E9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE3F4BA-B0B2-4FA3-AEAE-88B9614C509F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE3F4BA-B0B2-4FA3-AEAE-88B9614C509F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE3F4BA-B0B2-4FA3-AEAE-88B9614C509F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE3F4BA-B0B2-4FA3-AEAE-88B9614C509F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72425F20-2E3E-4A93-BFF8-8E70C12946E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72425F20-2E3E-4A93-BFF8-8E70C12946E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72425F20-2E3E-4A93-BFF8-8E70C12946E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72425F20-2E3E-4A93-BFF8-8E70C12946E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

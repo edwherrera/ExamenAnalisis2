@@ -1,0 +1,9 @@
+c:\users\efherrera\documents\visual studio 2015\Projects\AnalisisYDisenio1Examen2\AnalisisYDisenio1Examen2.Tests\bin\Debug\AnalisisYDisenio1Examen2.Tests.dll
+c:\users\efherrera\documents\visual studio 2015\Projects\AnalisisYDisenio1Examen2\AnalisisYDisenio1Examen2.Tests\bin\Debug\AnalisisYDisenio1Examen2.Tests.pdb
+c:\users\efherrera\documents\visual studio 2015\Projects\AnalisisYDisenio1Examen2\AnalisisYDisenio1Examen2.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\efherrera\documents\visual studio 2015\Projects\AnalisisYDisenio1Examen2\AnalisisYDisenio1Examen2.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\efherrera\documents\visual studio 2015\Projects\AnalisisYDisenio1Examen2\AnalisisYDisenio1Examen2.Tests\obj\Debug\AnalisisYDisenio1Examen2.Tests.csprojResolveAssemblyReference.cache
+c:\users\efherrera\documents\visual studio 2015\Projects\AnalisisYDisenio1Examen2\AnalisisYDisenio1Examen2.Tests\obj\Debug\AnalisisYDisenio1Examen2.Tests.dll
+c:\users\efherrera\documents\visual studio 2015\Projects\AnalisisYDisenio1Examen2\AnalisisYDisenio1Examen2.Tests\obj\Debug\AnalisisYDisenio1Examen2.Tests.pdb
+c:\users\efherrera\documents\visual studio 2015\Projects\AnalisisYDisenio1Examen2\AnalisisYDisenio1Examen2.Tests\bin\Debug\AnalisisYDisenio1Examen2.Logic.dll
+c:\users\efherrera\documents\visual studio 2015\Projects\AnalisisYDisenio1Examen2\AnalisisYDisenio1Examen2.Tests\bin\Debug\AnalisisYDisenio1Examen2.Logic.pdb
